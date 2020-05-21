@@ -1,8 +1,11 @@
 # DepthOfTree-Recursive
 This is a recursive approach to find the depth/height of a tree given the input is of the parent nodes. 
 Example input :
+
 5
+
 4 -1 4 1 1
+
 
 This represents a tree with 5 nodes where:
 parent of node 0 is 4
